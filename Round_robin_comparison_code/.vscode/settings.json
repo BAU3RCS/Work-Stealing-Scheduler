@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "thread": "cpp",
+        "*.tcc": "cpp",
+        "optional": "cpp"
+    }
+}
